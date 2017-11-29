@@ -47,7 +47,6 @@ Estilos Seccion 1
 .one{
   background-image: url(../img/garden_header.jpg);
   background-size: cover;
-  height: 100vh;
   background-repeat: no-repeat;
   text-align: center;
 }
